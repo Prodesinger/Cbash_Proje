@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Denemeform\bin\Debug\Denemeform.exe.config
+C:\Users\LENOVO\source\repos\Denemeform\bin\Debug\Denemeform.exe
+C:\Users\LENOVO\source\repos\Denemeform\bin\Debug\Denemeform.pdb
+C:\Users\LENOVO\source\repos\Denemeform\obj\Debug\Denemeform.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Denemeform\obj\Debug\Denemeform.Form1.resources
+C:\Users\LENOVO\source\repos\Denemeform\obj\Debug\Denemeform.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Denemeform\obj\Debug\Denemeform.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Denemeform\obj\Debug\Denemeform.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Denemeform\obj\Debug\Denemeform.exe
+C:\Users\LENOVO\source\repos\Denemeform\obj\Debug\Denemeform.pdb
